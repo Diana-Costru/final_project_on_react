@@ -171,4 +171,17 @@
   font-size: 18px;
 }
 
+.social-link {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: auto; 
+  align-items: center;
+}
+
+.social-link i {
+  color: black;
+  font-size: 3em;
+  align-items: center;
+}
 
